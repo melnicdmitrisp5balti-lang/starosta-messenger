@@ -1,0 +1,35 @@
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Firebase - DO NOT COMMIT
+google-services.json
+*.jks
+*.keystore
+
+# Kotlin
+*.class
+*.jar
+
+# Local config
+*.local
+*.env
+
+# IDE
+.idea/
+*.ipr
+*.iws
+out/
