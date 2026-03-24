@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043135737582",
+    "project_id": "starosta-messenger-1694e",
+    "storage_bucket": "starosta-messenger-1694e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043135737582:android:07639f665279f45b218dff",
+        "android_client_info": {
+          "package_name": "com.starosta.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvEA0r7YMMNZo-m-iUx2ZcRTV_F7dnJSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
