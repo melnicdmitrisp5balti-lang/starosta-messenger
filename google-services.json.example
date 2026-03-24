@@ -1,0 +1,26 @@
+{
+  "_comment": "This is an EXAMPLE placeholder. Replace with your real google-services.json from Firebase Console.",
+  "_instructions": "Download google-services.json from Firebase Console and place it in the app/ directory.",
+  "project_info": {
+    "project_number": "000000000000",
+    "project_id": "your-starosta-project",
+    "storage_bucket": "your-starosta-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:000000000000:android:0000000000000000000000",
+        "android_client_info": {
+          "package_name": "com.starosta.messenger"
+        }
+      },
+      "api_key": [{"current_key": "YOUR_API_KEY_HERE"}],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
